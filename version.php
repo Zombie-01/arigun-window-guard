@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Version details for Exam Window Guard.
+ * Version details for ARIGUN Window Guard.
  *
  * @package    quizaccess_privateexam
  * @copyright  2026 Arigun Jamsran

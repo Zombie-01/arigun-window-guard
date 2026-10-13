@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * English strings for Exam Window Guard.
+ * English strings for ARIGUN Window Guard.
  *
  * @package    quizaccess_privateexam
  * @copyright  2026 Arigun Jamsran
@@ -29,7 +29,7 @@ $string['enabled'] = 'Monitor leaving the exam window';
 $string['enabled_help'] = 'Counts how many times and how long the student leaves the quiz tab or window, disables copy, paste and right click, and ends the attempt when a limit is reached. Set "When time expires" to "Open attempts are submitted automatically".';
 $string['maxaway'] = 'Max total seconds away (0 = unlimited)';
 $string['maxswitches'] = 'Max times leaving the window (0 = unlimited)';
-$string['pluginname'] = 'Exam window guard';
+$string['pluginname'] = 'ARIGUN Window Guard';
 $string['privacy:metadata:log'] = 'How often and how long the student left the quiz window during an attempt.';
 $string['privacy:metadata:log:attemptid'] = 'The quiz attempt.';
 $string['privacy:metadata:log:awaysecs'] = 'Total seconds spent outside the quiz window.';

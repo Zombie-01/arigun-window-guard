@@ -1,6 +1,6 @@
-# Exam Window Guard
+# ARIGUN Window Guard
 
-Exam Window Guard (`quizaccess_privateexam`) is a quiz access rule that counts how many times, and for how long,
+ARIGUN Window Guard (`quizaccess_privateexam`) is a quiz access rule that counts how many times, and for how long,
 a student leaves the quiz window during an attempt. The student is warned each time they come back, and the attempt
 is submitted automatically once a limit set by the teacher is reached. Copy, cut, paste and the right-click menu are
 disabled on the attempt pages.
